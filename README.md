@@ -76,6 +76,9 @@ endmodule
 ```
 ## RTL realization:
 ![de1](https://github.com/SriVignesh-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147576510/3f368a86-fa6b-4b20-82ff-e55d0597f549)
+
+
+
 ## truthtable:
 ![all gate result excel](https://github.com/SriVignesh-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147576510/5d1cfc57-dc9d-47c8-ba48-caf4fe274ac0)
 
