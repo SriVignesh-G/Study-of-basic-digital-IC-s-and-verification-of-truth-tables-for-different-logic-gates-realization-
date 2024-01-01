@@ -1,5 +1,5 @@
-# Name: Sri Vignesh G
-# Register No: 23012556
+## Name: Sri Vignesh G
+## Register No: 23012556
 # Experiment No-1 Study of basic digital IC's and verification of truth tables for different logic gates realization
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -80,7 +80,8 @@ endmodule
 
 
 ## truthtable:
-![all gate result excel](https://github.com/SriVignesh-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147576510/5d1cfc57-dc9d-47c8-ba48-caf4fe274ac0)
+![ex1 excel crop](https://github.com/SriVignesh-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147576510/06e395e6-897f-4a35-8365-0eef7528457f)
+
 
 ## Timing Diagram:
 ![de timming](https://github.com/SriVignesh-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147576510/a05bf0f2-577e-4e21-81d8-f83085b4b53d)
